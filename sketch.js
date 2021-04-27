@@ -137,8 +137,8 @@ function draw() {
 	text("0.7 rad/s", 325, 20); // Max
 
 	// Texto de la barra de omega4
-	text("ω4", 20, 53); // Omega4
-	text("0 rad/s", 30, 70); // Min
+	text("ω4", 20, 53);         // Omega4
+	text("0 rad/s", 30, 70);    // Min
 	text("0.7 rad/s", 325, 70); // Max
 
 	// Mover el ángulo
